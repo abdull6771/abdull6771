@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/engineerabdulll?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MuhammadAnas707)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhammadanas)
 
-> **Note** **[Hop on Board my Machine Learning Journey...365 Days Of Machine Learning](https://github.com/muhammadanas0716/Machine-Learning-Projects-101/blob/main/twitter.md)**
+
 
 
 ## I'm 23, Computer Engineering Student, and a Machine Learning maniac!!
