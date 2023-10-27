@@ -12,7 +12,7 @@
 - 🌱 I’m currently exploring the vast & hot domain of Machine Learning
 - 📃 Researching on Algorithmic Trading
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
-- 🥅 2022 Goals: Learn more Machine Learning & Cloud Computing🚀
+- 🥅 2023 Goals: Learn more Machine Learning & Cloud Computing🚀
 - ⚡ Fun fact: I love to watch Tennis
 
 
