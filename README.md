@@ -9,10 +9,10 @@
 ## I'm 23, Computer Engineering Student, and a Machine Learning maniac!!
 
 - 🔭 Check out my [Blog](https://medium.com/@abdulll8392) 🔥
-- 🌱 I’m currently exploring the vast & hot domain of Machine Learning
-- 📃 Researching on Algorithmic Trading
+- 🌱 I’m currently exploring the vast & hot domain of AI Agent
+- 📃 Researching on AI Agent and it's Ochestration Framework
 - 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
-- 🥅 2023 Goals: Learn more Machine Learning & Cloud Computing🚀
+- 🥅 2025 Goals: Learn more About AI Agent🚀
 - ⚡ Fun fact: I love to watch Tennis
 
 
@@ -35,7 +35,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -48,16 +47,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Soundest Seaborn Visualizations](https://medium.com/gitconnected/8-soundest-seaborn-visualizations-a17a60861973)
-- [5 Python libraries that make Python just too fun!](https://levelup.gitconnected.com/5-python-libraries-that-make-python-just-too-fun-6bffea68a283)
-- [Top 20 Pandas functions you aren’t using, which you SHOULD BE using!](https://medium.com/gitconnected/top-20-pandas-functions-which-you-arent-using-which-you-should-be-using-a408a330daac) - **Highly Recommended**
+- [Plant Disease Detections](https://medium.com/@abdulll8392/plant-disease-detection-be036985a48e)
+- [Mastering OpenVINO Inference Engine: A Comprehensive Workflow](https://medium.com/@abdulll8392/mastering-openvino-inference-engine-a-comprehensive-workflow-265736980bde)
+- [From DNA Dataset to Cloud Deployment: A Comprehensive Guide!](https://medium.com/@abdulll8392/from-dna-dataset-to-cloud-deployment-a-comprehensive-guide-277e965ed0ae) - **Highly Recommended**
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@abdulll8392/)
 
 ---
 
-[Blog]: https://medium.com/@abdulll8392](https://muhammadanas.hashnode.dev/what-is-machine-learning-explained-to-a-13-year-old
 [twitter]: https://twitter.com/engineerabdulll
 [instagram]: https://www.instagram.com/abdullbbr/
 [linkedin]: https://www.linkedin.com/in/abdullahi-ahmad-57653b205/
