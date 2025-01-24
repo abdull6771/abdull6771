@@ -49,7 +49,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Plant Disease Detections](https://medium.com/@abdulll8392/plant-disease-detection-be036985a48e)
 - [Mastering OpenVINO Inference Engine: A Comprehensive Workflow](https://medium.com/@abdulll8392/mastering-openvino-inference-engine-a-comprehensive-workflow-265736980bde)
-- [From DNA Dataset to Cloud Deployment: A Comprehensive Guide!](https://medium.com/@abdulll8392/from-dna-dataset-to-cloud-deployment-a-comprehensive-guide-277e965ed0ae) - **Highly Recommended**
+- [From DNA Dataset to Cloud Deployment: A Comprehensive Guide!](https://medium.com/@abdulll8392/from-dna-dataset-to-cloud-deployment-a-comprehensive-guide-277e965ed0ae)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@abdulll8392/)
