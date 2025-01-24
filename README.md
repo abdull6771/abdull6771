@@ -11,7 +11,7 @@
 - 🔭 Check out my [Blog](https://medium.com/@abdulll8392) 🔥
 - 🌱 I’m currently exploring the vast & hot domain of AI Agent
 - 📃 Researching on AI Agent and it's Ochestration Framework
-- 👯 I’m looking to collaborate with other content creators & professionals🤝🏻
+- 👯 I’m looking for collaboration on building large scale AI Agent🤝🏻
 - 🥅 2025 Goals: Learn more About AI Agent🚀
 - ⚡ Fun fact: I love to watch Tennis
 
