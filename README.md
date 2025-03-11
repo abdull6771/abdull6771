@@ -6,7 +6,7 @@
 
 
 
-## I'm 26, Computer Engineering Student, and a Machine Learning Enthusiastic!!
+## I'm 26, Computer Engineering Student, and a Machine Learning Enthusiast!!
 
 - 🔭 Check out my [Blog](https://medium.com/@abdulll8392) 🔥
 - 🌱 I’m currently exploring the vast & hot domain of AI Agent
